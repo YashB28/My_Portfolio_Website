@@ -1,0 +1,141 @@
+## Personal Information
+
+Full Name:Yash Bhushan
+
+
+Tagline/Bio:"Building clean and scalable web applications with modern technologies"
+
+**Email:** 
+ybhushan2002@gmail.com
+
+## Location & Background
+
+**Location:** 
+Bangalore,Karnataka,India
+
+**Education:** 
+Bachelors Of Engineering
+Electronics and Communication
+B.M.S College Of Engineering
+
+**Interests:** 
+Full-Stack Development,AI/ML, Photography, Travel
+
+**Focus Area:** 
+ Full-Stack Development
+
+## About Me Section
+
+**About Me Paragraph 1:** 
+I'm a recent Electronics and Communication Engineering graduate
+from BMS College of Engineering with a strong interest in AI,
+cloud, and full-stack development. I completed a Machine Learning
+Internship at CodTech IT Solutions and worked as a freelance
+Prompt Engineer at Outlier.ai, contributing to AI model training
+and evaluation. I enjoy solving real-world problems through
+intelligent and scalable tech solutions.
+
+**About Me Paragraph 2:** 
+Outside of tech, I pursue freelance photography, blending
+creativity with precision. I'm always eager to explore new
+technologies, collaborate on impactful projects, and grow as a
+developer and innovator.
+
+## Skills & Technologies
+
+Please list your skills organized by category:
+
+    title: "Languages",
+    icon: <Code className="text-blue-600 dark:text-blue-400 w-5 h-5" />,
+    skills: ["C++", "JavaScript", "Python"]
+  },
+  {
+    title: "Developer Tools",
+    icon: <Wrench className="text-blue-600 dark:text-blue-400 w-5 h-5" />,
+    skills: ["HTML", "CSS", "JavaScript", "MySQL"]
+  },
+  {
+    title: "Databases",
+    icon: <Database className="text-blue-600 dark:text-blue-400 w-5 h-5" />,
+    skills: ["MySQL", "MongoDB", "Cassandra"]
+  },
+  {
+    title: "Cloud",
+    icon: <Cloud className="text-blue-600 dark:text-blue-400 w-5 h-5" />,
+    skills: ["Docker", "Kubernetes", "CI/CD Pipeline", "AWS"]
+  },
+  {
+    title: "Coursework",
+    icon: <Settings className="text-blue-600 dark:text-blue-400 w-5 h-5" />,
+    skills: ["OOPs in C++", "Operating Systems", "Data Structures & Algorithms", "DBMS"]
+  },
+  {
+    title: "Areas of Interest",
+    icon: <Heart className="text-blue-600 dark:text-blue-400 w-5 h-5" />,
+    skills: ["Problem-Solving", "Cloud", "Web Development"]
+  },
+  {
+    title: "Soft Skills",
+    icon: <Users className="text-blue-600 dark:text-blue-400 w-5 h-5" />,
+    skills: ["Leadership", "Time Management", "Communication Skills", "Adaptability", "Teamwork"]
+  }
+];
+
+## Professional Experience
+
+For each role, provide:
+
+**Job 1:**
+title: "Machine Learning Intern",
+company: "CodTech IT Solutions",
+period: "2023 - 2024",
+description: "Completed a Machine Learning Internship focused on developing and implementing machine learning models for various business applications. Worked with data preprocessing, feature engineering, and model optimization to deliver actionable insights and automated solutions.",
+skills: ["Python", "Machine Learning", "Data Analysis"]
+
+**Job 2:**
+title: "Freelance Prompt Engineer",
+company: "Outlier.ai",
+period: "2024 - Present",
+description: "Working as a freelance Prompt Engineer contributing to AI model training and evaluation. Specialized in designing and optimizing prompts for AI models to improve response quality and accuracy, collaborating with cross-functional teams to implement AI solutions.",
+skills: ["AI/ML", "Prompt Engineering", "NLP", "Model Evaluation"]
+
+## Projects
+
+For each project (up to 6), provide:
+
+**Project 1:**
+title: "Virtual Canvas",
+description: "Developed a virtual canvas using hand gesture recognition and computer vision techniques. Implemented real-time hand gesture recognition to allow drawing and object manipulation on a virtual canvas. Created a smooth user interface using Python scripts for seamless drawing and editing.",
+technologies: [
+      { name: "OpenCV", color: "bg-blue-100 dark:bg-blue-900 text-blue-800 dark:text-blue-200" },
+      { name: "MediaPipe", color: "bg-green-100 dark:bg-green-900 text-green-800 dark:text-green-200" },
+      { name: "Python", color: "bg-yellow-100 dark:bg-yellow-900 text-yellow-800 dark:text-yellow-200" },
+    ],
+githubUrl: "https://github.com/YashB28/virtual-canvas"
+
+**Project 2:**
+title: "IoT-based Food Spoilage Detection",
+description: "Detection of spoilt food using IoT technology, applicable in stores, warehouses, and grocery stores. Implemented to detect any spoilt food using Arduino and Node MCU. Utilized the Blynk IoT platform for monitoring and control.",
+technologies: [
+      { name: "Arduino IDE", color: "bg-teal-100 dark:bg-teal-900 text-teal-800 dark:text-teal-200" },
+      { name: "Arduino UNO", color: "bg-blue-100 dark:bg-blue-900 text-blue-800 dark:text-blue-200" },
+      { name: "Node MCU", color: "bg-green-100 dark:bg-green-900 text-green-800 dark:text-green-200" },
+      { name: "Blynk IoT", color: "bg-purple-100 dark:bg-purple-900 text-purple-800 dark:text-purple-200" }
+
+**Project 3:**
+title: "Shop It: An Ecommerce Website",
+description: "A platform to digitalize offline sellers. Provides an e-commerce platform to digitalize offline sellers. Utilized Firebase for backend including authentication and database. Implemented features like authentication, admin dashboard, add to cart, order history, and checkout. Focused on good user experience and responsive design.",
+technologies: [
+  { name: "React", color: "bg-blue-100 dark:bg-blue-900 text-blue-800 dark:text-blue-200" },
+  { name: "Firebase", color: "bg-orange-100 dark:bg-orange-900 text-orange-800 dark:text-orange-200" },
+  { name: "JavaScript", color: "bg-yellow-100 dark:bg-yellow-900 text-yellow-800 dark:text-yellow-200" },
+  { name: "Redux-React Toolkit", color: "bg-purple-100 dark:bg-purple-900 text-purple-800 dark:text-purple-200" },
+  { name: "Git & GitHub", color: "bg-gray-100 dark:bg-gray-900 text-gray-800 dark:text-gray-200" },
+
+## Social Links
+
+**GitHub:** 
+https://github.com/YashB28
+
+**LinkedIn:** 
+https://www.linkedin.com/in/yash-bhushan-3a43a3262
