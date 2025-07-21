@@ -2,6 +2,7 @@ import { motion } from "framer-motion";
 import { Button } from "@/components/ui/button";
 import { Code, Download, Github, Linkedin, Mail } from "lucide-react";
 import profilePhoto from "@assets/WhatsApp Image 2025-07-19 at 12.09.19 AM_1752863796587.jpeg";
+import { Typewriter } from 'react-simple-typewriter';
 
 export default function HeroSection() {
   const scrollToProjects = () => {
@@ -53,7 +54,15 @@ export default function HeroSection() {
             transition={{ duration: 0.8, delay: 0.4 }}
             className="text-2xl md:text-3xl font-medium text-primary mb-6"
           >
-            Software Developer
+            <Typewriter
+              words={['Software Developer']}
+              loop={0}
+              cursor
+              cursorStyle='|'
+              typeSpeed={80}
+              deleteSpeed={50}
+              delaySpeed={1000}
+            />
           </motion.h2>
 
           <motion.p 

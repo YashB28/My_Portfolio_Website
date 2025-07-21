@@ -123,7 +123,7 @@ export default function SkillsSection() {
                 transition={{ duration: 0.6, delay: categoryIndex * 0.2 }}
                 viewport={{ once: true }}
               >
-                <Card className="bg-background shadow-sm hover:shadow-md transition-shadow h-full">
+                <Card className="bg-background shadow-sm transition-shadow hover:shadow-md h-full">
                   <CardContent className="p-8">
                     <h3 className="text-lg font-bold mb-4 text-center flex items-center justify-center">
                       <CategoryIcon className="text-primary mr-2 h-5 w-5" />
@@ -139,7 +139,7 @@ export default function SkillsSection() {
                             whileInView={{ opacity: 1, scale: 1 }}
                             transition={{ duration: 0.4, delay: (categoryIndex * 0.2) + (skillIndex * 0.1) }}
                             viewport={{ once: true }}
-                            className="flex items-center p-3 bg-muted rounded-lg skill-icon cursor-pointer hover:bg-muted/80 transition-colors"
+                            className="flex items-center p-3 bg-muted rounded-lg skill-icon cursor-pointer transition-transform transition-shadow hover:scale-105 hover:shadow-lg"
                           >
                             <SkillIcon className={`text-xl mr-3 ${skill.color}`} />
                             <span className="font-medium text-sm">{skill.name}</span>
